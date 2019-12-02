@@ -1,1 +1,9 @@
+.vscode
+
+#jupyter
 .ipynb_checkpoints
+
+#rust
+target/
+Cargo.lock
+**/*.rs.bk
