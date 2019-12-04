@@ -4,6 +4,14 @@
 .ipynb_checkpoints
 
 #rust
-target/
+target
 Cargo.lock
 **/*.rs.bk
+
+
+
+*.iml
+*.ipr
+*.iws
+.idea
+out

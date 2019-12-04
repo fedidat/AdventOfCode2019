@@ -4,4 +4,5 @@ These will be my solutions for AdventOfCode2019. I hope to learn a new language 
 
 ### Notes
 
-Day 2: Getting started with Rust. Interesting in a good way!
+- Day 2: Getting started with Rust. Interesting in a good way!
+- Day 4: Trying out Scala. Not what I'm used to, even as a Java programmer.
